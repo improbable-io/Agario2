@@ -1,0 +1,195 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+13 items
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$1.class
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$1.class
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$10.class
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$2.class
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$3.class
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$4.class
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$5.class
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$6.class
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$7.class
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$8.class
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$9.class
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$.class
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild.class
+binary dependencies:
+7 items
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.11.jar
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.11.jar
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.11.jar
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.11.jar
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.11.jar
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /home/dino/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+13 items
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild$
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild$$anonfun$1
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild$$anonfun$root$1
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild$$anonfun$root$10
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild$$anonfun$root$2
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild$$anonfun$root$3
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild$$anonfun$root$4
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild$$anonfun$root$5
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild$$anonfun$root$6
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild$$anonfun$root$7
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild$$anonfun$root$8
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild$$anonfun$root$9
+used names:
+69 items
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> %
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> %%
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> +=
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> /
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> :=
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> <init>
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> Any
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> Append
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> Build
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> Compile
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> ConfigKey
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> Def
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> IO
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> InitializeInstance
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> InputWrapper
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> JSON
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> Keys
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> Map
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> Option
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> Predef
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> Project
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> Properties
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> SpatialOSBuild
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> String
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> Test
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> append1
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> appendSeq
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> apply
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> asInstanceOf
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> baseDirectory
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> configurationToKey
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> currentVersion
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> envOrNone
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> file
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> fork
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> get
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> getOrElse
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> improbableVersion
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> in
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> json
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> libraryDependencies
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> macroValueI
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> map
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> outputBaseDir
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> package
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> parseFull
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> parsing
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> projectManifest
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> projectManifestObj
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> projectManifestText
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> projectName
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> pure
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> read
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> richFile
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> root
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> runMain
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> sbt
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> scala
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> scalaVersion
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> set
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> settings
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> toGroupID
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> toString
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> trim
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> unmanagedSourceDirectories
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> util
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> value
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> version
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> wrapInit_☃☃
+product stamps:
+13 items
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$1.class -> lastModified(1463596125000)
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$1.class -> lastModified(1463596125000)
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$10.class -> lastModified(1463596125000)
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$2.class -> lastModified(1463596125000)
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$3.class -> lastModified(1463596125000)
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$4.class -> lastModified(1463596125000)
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$5.class -> lastModified(1463596125000)
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$6.class -> lastModified(1463596125000)
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$7.class -> lastModified(1463596125000)
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$8.class -> lastModified(1463596125000)
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$$anonfun$root$9.class -> lastModified(1463596125000)
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild$.class -> lastModified(1463596125000)
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/target/scala-2.10/sbt-0.13/classes/SpatialOSBuild.class -> lastModified(1463596125000)
+source stamps:
+1 items
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> hash(108de02a3ac8441bd2cd2a3590d59a574ebe6bde)
+binary stamps:
+7 items
+/home/dino/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.11.jar -> lastModified(1456100062000)
+/home/dino/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.11.jar -> lastModified(1456100124000)
+/home/dino/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.11.jar -> lastModified(1456100137000)
+/home/dino/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.11.jar -> lastModified(1456100157000)
+/home/dino/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.11.jar -> lastModified(1456100154000)
+/home/dino/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1446482149000)
+class names:
+7 items
+/home/dino/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.11.jar -> sbt.IO$
+/home/dino/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.11.jar -> sbt.impl.GroupID
+/home/dino/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.11.jar -> sbt.Def$
+/home/dino/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.11.jar -> sbt.Build
+/home/dino/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.11.jar -> sbt.package$
+/home/dino/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.util.PropertiesTrait
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB1NgVWAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDzlmCh0AAZub3RpZnlzcQB+AAw18aCydAALcHJvamVjdE5hbWVzcQB+AAymLgvYdAANb3V0cHV0QmFzZURpcnNxAH4ADHl5IqV0AAR3YWl0c3EAfgAMEnoTmnQAEWltcHJvYmFibGVWZXJzaW9uc3EAfgAMYdc6AHQADSRhc0luc3RhbmNlT2ZzcQB+AAyExzRXdAAMYnVpbGRMb2FkZXJzc3EAfgAMs4jzHnQABHJvb3RzcQB+AAwiI2/ZdAAGZXF1YWxzc3EAfgAM00IfinQADGFzSW5zdGFuY2VPZnNxAH4ADJt0KZ90ABJwcm9qZWN0RGVmaW5pdGlvbnNzcQB+AAyzGZ3kdAAMc3luY2hyb25pemVkc3EAfgAMeKHfl3QADSRpc0luc3RhbmNlT2ZzcQB+AAxXfyj2dAAJbm90aWZ5QWxsc3EAfgAMRQfcf3QAC3Jvb3RQcm9qZWN0c3EAfgAMveRjWnQADGlzSW5zdGFuY2VPZnNxAH4ADPidNLd0AAI9PXNxAH4ADHsgnK50AAVjbG9uZXNxAH4ADBbmPjV0AAYkaW5pdCRzcQB+AAxjgJSedAAIdG9TdHJpbmdzcQB+AAzXKOeidAACIT1zcQB+AAx6SmoudAAIcHJvamVjdHNzcQB+AAzmP4m1dAAIZ2V0Q2xhc3NzcQB+AAxvPxJXdAACbmVzcQB+AAyZegA1dAACZXFzcQB+AAzDXs4LdAAIc2V0dGluZ3NzcQB+AAym78MpdAAOU3BhdGlhbE9TQnVpbGRzcQB+AAzx1k3/dAAOY3VycmVudFZlcnNpb25zcQB+AAw7vOzWdAACIyNzcQB+AAwLjnd6dAAIZmluYWxpemVzcQB+AAw7u4HCdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AEN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgBxc3EAfgBsdXEAfgBQAAAAAHNxAH4AbHVxAH4AUAAAAABzcQB+AGx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHB0AAVCdWlsZHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AcHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAADc2J0c3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIpzcQB+AH10AAZPYmplY3RzcQB+AIFzcQB+AIR1cQB+AIcAAAADc3EAfgCJdAAEamF2YXNxAH4AiXQABGxhbmdxAH4AjnNxAH4AfXQAA0FueXNxAH4AgXNxAH4AhHVxAH4AhwAAAAJzcQB+AIl0AAVzY2FsYXEAfgCOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVTFIIYVdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAdi9ob21lL2Rpbm8vUHJpdmF0ZS9jb2RlL2V2ZXJ5dGhpbmcvYXBwbGljYXRpb25zL2JveGVzX3R1dG9yaWFsL3dvcmtlcnMvZ3NpbS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQQjeAqOshEG9LNKjWQ1ZpXTr5r3g==
+external apis:
+0 items
+source infos:
+1 items
+/home/dino/Private/code/everything/applications/boxes_tutorial/workers/gsim/project/SpatialOSBuild.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVMUghhV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAdi9ob21lL2Rpbm8vUHJpdmF0ZS9jb2RlL2V2ZXJ5dGhpbmcvYXBwbGljYXRpb25zL2JveGVzX3R1dG9yaWFsL3dvcmtlcnMvZ3NpbS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
