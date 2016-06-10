@@ -9,6 +9,7 @@ workers/gsim/.idea/
 
 # SBT
 workers/gsim/**/target/
+target/
 
 # Logs
 /logs/
@@ -18,8 +19,21 @@ workers/unity/.invoke.log
 # Mac-specific
 **/.DS_Store
 
+# Asset Database and Library
+Data/AssetDatabase
+
 # Build
 build/
+/workers/unity/build/
+/workers/gsim/generated/
+/workers/gsim/logs/
+
+# Built out assets
+workers/unity/Assets/Improbable/EntityPrefabs/*
+
+# Unity
+workers/unity/ProjectSettings/UnityAnalyticsManager.asset
+workers/unity/ProjectSettings/UnityAdsSettings.asset
 
 # Schema
 workers/unity/schema.html

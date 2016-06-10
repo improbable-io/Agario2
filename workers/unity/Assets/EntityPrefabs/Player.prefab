@@ -63,7 +63,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100000}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.83233643, y: 0, z: -4.58782959}
+  m_LocalPosition: {x: -1.8091431, y: 0, z: -5.4435425}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 407778}
@@ -75,7 +75,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100002}
-  m_LocalRotation: {x: .30070582, y: 0, z: 0, w: .953716934}
+  m_LocalRotation: {x: 0.30070582, y: 0, z: 0, w: 0.95371693}
   m_LocalPosition: {x: 0, y: 17, z: -20}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -103,14 +103,14 @@ Camera:
   m_Enabled: 0
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: .192156866, g: .301960796, b: .474509805, a: .0196078438}
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0.019607844}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
     y: 0
     width: 1
     height: 1
-  near clip plane: .300000012
+  near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
   orthographic: 0
@@ -126,7 +126,7 @@ Camera:
   m_HDR: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
-  m_StereoSeparation: .0219999999
+  m_StereoSeparation: 0.022
   m_StereoMirrorMode: 0
 --- !u!23 &2300000
 MeshRenderer:
@@ -149,7 +149,7 @@ MeshRenderer:
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
   m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: .5
+  m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
@@ -167,7 +167,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100000}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: cb2dce89798a7e04d9a56f843829be8d, type: 3}
   m_Name: 
@@ -199,10 +199,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mode: 1
   showGeneratedNormals: 0
-  offsetScale: .200000003
+  offsetScale: 0.2
   blurRadius: 18
-  edgeThresholdMin: .0500000007
-  edgeThreshold: .200000003
+  edgeThresholdMin: 0.05
+  edgeThreshold: 0.2
   edgeSharpness: 4
   dlaaSharp: 0
   ssaaShader: {fileID: 4800000, guid: b3728d1488b02490cbd196c7941bf1f8, type: 3}
@@ -251,6 +251,7 @@ MonoBehaviour:
   AddRigidbodyOnClients: 0
   AddRigidbodyOnFSims: 1
   DisableRigidbodyWhenParented: 1
+  NonAuthoritativeRigidbodyIsKinematic: 0
 --- !u!114 &11462816
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -270,12 +271,12 @@ MonoBehaviour:
   FSimEnableGlobalFallback: 1
   UseCenterOfMassPivot: 0
   PivotOffset: {x: 0, y: 0, z: 0}
-  NetworkUpdatePeriodThreshold: .0500000007
-  PositionNetworkUpdateSquareDistanceThreshold: 9.99999975e-05
-  RotationNetworkUpdateAngleThreshold: .00999999978
-  InterpolationDelayInSeconds: .200000003
-  MinAngleToInterpolateBetween: .00999999978
-  MinDistanceToInterpolateBetween: 9.99999975e-05
+  NetworkUpdatePeriodThreshold: 0.05
+  PositionNetworkUpdateSquareDistanceThreshold: 0.0001
+  RotationNetworkUpdateAngleThreshold: 0.01
+  InterpolationDelayInSeconds: 0.2
+  MinAngleToInterpolateBetween: 0.01
+  MinDistanceToInterpolateBetween: 0.0001
   MaxSecondsToInterpolateAfterLastUpdate: 0
   GameObjectCanBeParented: 1
   GameObjectCanBeParent: 1
@@ -288,10 +289,10 @@ CapsuleCollider:
   m_Material: {fileID: 13400000, guid: b8956f28dd905d94c8a098612bf4b89d, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: .500000119
+  m_Radius: 0.5000001
   m_Height: 2
   m_Direction: 1
-  m_Center: {x: 5.96046448e-08, y: 0, z: -8.94069672e-08}
+  m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
