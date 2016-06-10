@@ -1,21 +1,0 @@
-
-·
-:improbable/corelibrary/subscriptions/publisher_state.proto+schema.improbable.corelibrary.subscriptionsimprobable/entity_state.proto:improbable/corelibrary/subscriptions/subscriber_data.proto"ð
-PublisherStateDatak
-subscriberData (2S.schema.improbable.corelibrary.subscriptions.PublisherStateData.SubscriberDataEntryr
-SubscriberDataEntry
-key (	J
-value (2;.schema.improbable.corelibrary.subscriptions.SubscriberData:82y
-publisherState.schema.improbable.EntityStateÍŠt (2?.schema.improbable.corelibrary.subscriptions.PublisherStateData
-º
->improbable/corelibrary/subscriptions/subscribed_entities.proto+schema.improbable.corelibrary.subscriptionsimprobable/entity_state.proto",
-SubscribedEntities
-entities (Bèó
-Ë
-:improbable/corelibrary/subscriptions/subscriber_data.proto+schema.improbable.corelibrary.subscriptionsimprobable/entity_state.proto>improbable/corelibrary/subscriptions/subscribed_entities.proto"€
-SubscriberDataa
-subscribers (2L.schema.improbable.corelibrary.subscriptions.SubscriberData.SubscribersEntry
-sequenceNumber (s
-SubscribersEntry
-key (	N
-value (2?.schema.improbable.corelibrary.subscriptions.SubscribedEntities:8

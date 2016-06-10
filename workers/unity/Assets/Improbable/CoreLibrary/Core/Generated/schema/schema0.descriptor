@@ -1,17 +1,0 @@
-
-™
-2improbable/corelib/entity/nature/nature_data.proto'schema.improbable.corelib.entity.natureimprobable/entity_state.proto"!
-NatureDataData
-natures (	:x
-nature_data.schema.improbable.EntityState³Í (27.schema.improbable.corelib.entity.nature.NatureDataDataBÂó
-í
-&improbable/corelib/entity/prefab.proto schema.improbable.corelib.entityimprobable/entity_state.proto"
-
-PrefabData
-name (	:f
-prefab.schema.improbable.EntityStateŠÎ (2,.schema.improbable.corelib.entity.PrefabDataBÂó
-ú
-*improbable/entity/physical/tags_data.proto!schema.improbable.entity.physicalimprobable/entity_state.proto"
-TagsDataData
-tags (	:l
-	tags_data.schema.improbable.EntityState‹Î (2/.schema.improbable.entity.physical.TagsDataDataBÂó
