@@ -1,0 +1,51 @@
+# Visual Studio Generated Files
+**/obj/
+**/bin/
+workers/gsim/src/main/cs/*/*.csproj.user
+*.DotSettings.user
+
+# IntelliJ Generated Files
+workers/gsim/.idea/
+
+# SBT
+workers/gsim/**/target/
+
+# Logs
+/logs/
+toolbelt.log
+workers/unity/.invoke.log
+
+# Mac-specific
+**/.DS_Store
+
+# Build
+build/
+
+# Schema
+workers/unity/schema.html
+workers/gsim/schema.html
+
+#Editor backup files
+*~
+
+#generated schema
+workers/gsim/generated
+
+#nuget
+workers/unity/.nugetDepStaging/
+
+# Generated build scripts
+build.json
+build.properties
+spatialos_worker_packages.json
+spatialos_*.sbt
+**/project/SpatialOS*.scala
+
+*.iml
+
+unzipped/
+
+workers/unity/Library/*
+workers/unity/Temp/*
+workers/gsim/logs/*
+toolbelt.log

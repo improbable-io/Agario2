@@ -1,3 +1,3 @@
-# Boxes Tutorial Project
+# Agario Project for our Gamejame
 
-This project contains the starting project for the Boxes Tutorial at [http://spatial.improbable.io/docs]
+Team gamejam09: Joe Nash, Callum Brighting, Jonas Hou
